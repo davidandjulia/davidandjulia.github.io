@@ -5,6 +5,8 @@ weight: 4
 
 ## Photos of Julia and David
 
+We know that not all of you have gotten to meet one of Julia and David, so here are some photos of both of us around Washington and elsewhere.
+
 {{< load-photoswipe >}}
 {{< gallery caption-position="none" >}}
   {{< figure link="/images/spearhead_faces.jpg" thumb="-thumb" caption="Cold Morning On the Spearhead Traverse near Whistler" >}}

@@ -1,11 +1,14 @@
 ---
-title: "Links"
+title: "Venue"
 weight: 3
 improvecontrast: true
 ---
 
-## Download Grayscale
+## Brown Family Homestead
 
-You can download Grayscale for free from the Github page.
+There is lots of useful information on their website
 
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+{{< big-button text="Visit their website" href="http://www.brownfamilyhomestead.com/" >}}
+
+<iframe width="600" height="450" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJn6mcN6QDm1QRe5bJGlXLh1M&key=AIzaSyAZlXC_nSEg9aeG3_Wr0oXDHNoiDZvHK_s" allowfullscreen></iframe>

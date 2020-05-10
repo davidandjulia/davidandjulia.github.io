@@ -1,13 +1,8 @@
 ---
-title: "Contact"
+title: "Things to do"
 weight: 5
 ---
 
-## Contact Start Bootstrap
+## Things to do near Leavenworth
 
-Feel free to leave us a comment on the [Grayscale template Github page](https://github.com/runningstream/hugograyscale/) to give some feedback about this theme!
-
-{{< socialhandles >}}
-    {{< twitter user="stream_running" >}}
-    {{< github user="runningstream" >}}
-{{< /socialhandles >}}
+The central Cascades are spectacular in September, and if you have extra time we encourage you to come early or stay late to see the area
