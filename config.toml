@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "davidandjulia.github.io"
 languageCode = "en-us"
 title = "Julia and David"
 theme = "grayscale"
@@ -7,11 +7,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "David and Julia wedding"
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
-
-[Social]
-    twitter = "stream_running"
+    name = "David Lilien and Julia Kelson"
+    email = "julia.and.david.202something@gmail.com"
