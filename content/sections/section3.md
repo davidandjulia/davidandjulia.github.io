@@ -5,13 +5,14 @@ weight: 4
 
 ## Photos of Julia and David
 
-We know that not all of you have gotten to meet one of Julia and David, so here are some photos of both of us around Washington and elsewhere. As you can tell, most photos of us are while skiing, so we hope you like photos of snowy mountains!
+We know that not all of you have gotten to meet one of Julia and David, so here are some photos of both of us around Washington and elsewhere. As you can tell, most photos of us are while skiing--we hope you like photos of snowy mountains!
 
 {{< load-photoswipe >}}
 {{< gallery caption-position="none" >}}
   {{< figure link="/images/spearhead_faces.jpg" thumb="-thumb" caption="Cold Morning On the Spearhead Traverse near Whistler" >}}
   {{< figure link="/images/xmas_2019.jpg" thumb="-thumb" caption="San Luis Obispo" >}}
   {{< figure link="/images/skis_on_back.jpg" thumb="-thumb" caption="A typical scene during spring in WA" >}}
+  {{< figure link="/images/sverige.jpg" thumb="-thumb" caption="Kayaking in the Blekinge Archipelago in southern Sweden." >}}
   {{< figure link="/images/beckey.jpg" thumb="-thumb" caption="Atop Liberty Bell in the North Cascades with Max, Todd, and Paige" >}}
   {{< figure link="/images/nz_plusshelleymax.jpg" thumb="-thumb" caption="With Shelley and Max on the Kepler Track in New Zealand" >}}
   {{< figure link="/images/homewood.jpg" thumb="-thumb" caption="A sunny day at Lake Tahoe" >}}
@@ -24,6 +25,7 @@ We know that not all of you have gotten to meet one of Julia and David, so here 
     {{< figure link="/images/ferry.jpg" thumb="-thumb" caption="Just decided to build a canoe for Suzanne and Christopher! On the ferry with Jane (Julia's mom) to buy the lumber." >}}
   {{< figure link="/images/boat_julia.jpg" thumb="-thumb" caption="Building a canoe for Suzanne and Christopher's wedding, Julia sews the stem" >}}
   {{< figure link="/images/boat_david.jpg" thumb="-thumb" caption="Building a canoe for Suzanne and Christopher's wedding, David adds urethane" >}}
+  {{< figure link="/images/maiden_voyage.jpg" thumb="-thumb" caption="A smoky maiden voyage on Greenlake in Seattle." >}}
 
   {{< figure link="/images/spearhead_evening.jpg" thumb="-thumb" caption="Camped on the Spearhead Traverse near Whistler" >}}
   {{< figure link="/images/spearhead_big.jpg" thumb="-thumb" caption="One more from the Spearhead" >}}
