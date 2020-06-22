@@ -1,6 +1,7 @@
 ---
 title: "Schedule"
 weight: 2
+improvecontrast: true
 ---
 
 ## Schedule
