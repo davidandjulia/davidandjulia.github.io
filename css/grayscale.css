@@ -136,7 +136,6 @@ header p {
 
 .improve-contrast-box {
   background: rgba(0, 0, 0, .5);
-  secondary-color: rgb(175, 175, 175);
   border-radius: 5px;
   text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
 }
