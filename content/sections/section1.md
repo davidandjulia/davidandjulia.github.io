@@ -1,25 +1,15 @@
 ---
-title: "Schedule"
+title: "COVID"
 weight: 2
 ---
 
 
-## Schedule
+## COVID
 
-***We are having an outdoor wedding in Washington in September, so we may have to make some last-minute moves for weather***
+All plans are dependent on distribution of vaccines for COVID.
 
-### Friday, September 10th 2021
+Given progress on this front, we expect that all older and at-risk individuals can be vaccinated before September, so we are hopeful that we can have a normal wedding.
 
-Morning -- Group hike
+However, we completely understand if you are still uncomfortable traveling at that time, and we will have Zoom arrangements for those who cannot make it in person.
 
-Evening -- Welcome dinner
-
-
-### Saturday, September 11th 2021
-
-10:00am  -- 
-
-4:00pm  -- Ceremony
-
-10:00pm -- County regulations require music to be off
-
+If the return to normalcy is slower than hoped, we will keep you updated with contingencies (here and through email).

@@ -1,9 +1,16 @@
 ---
-title: "Registry"
-weight: 6
+title: "Things to do"
+weight: 5
 improvecontrast: true
 ---
 
-## We will eventually have a registry here...
+## Things to do near Leavenworth
 
-{{< big-button text="REI" href="https://rei.com" >}}
+The central Cascades are spectacular in September! If you have extra time, we encourage you to come early or stay late to see the area. There is a ton to do and see.
+
+September is great for hiking or mountain biking, but late for rafting and early for easy ski access.
+We have put together a map of hikes of varying difficulty.
+<div class="google-maps"><iframe width="600" height="450" frameborder="0" style="border:0"
+src="https://caltopo.com/m/A86C" allowfullscreen></iframe></div>
+All those points have additional information--click <A HREF="https://caltopo.com/m/A86C">here</A> or on "Open in CalTopo" in the upper right of the map to get the interactive version.
+The <A HREF="https://wta.org">Washington Trails Association</A> is a great resource for these and other hikes in Washington.

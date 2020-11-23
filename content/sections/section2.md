@@ -1,12 +1,25 @@
 ---
-title: "Venue"
-weight: 3
-improvecontrast: true
+title: "Schedule"
+weight: 2
 ---
 
-## Brown Family Homestead
 
-{{< big-button text="Visit their website" href="http://www.brownfamilyhomestead.com/" >}}
+## Schedule
 
-<div class="google-maps"><iframe width="600" height="450" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJn6mcN6QDm1QRe5bJGlXLh1M&key=AIzaSyAZlXC_nSEg9aeG3_Wr0oXDHNoiDZvHK_s" allowfullscreen></iframe></div>
+***We are having an outdoor wedding in Washington in September, so we may have to make some last-minute moves for weather***
+
+### Friday, September 10th 2021
+
+Morning -- Group hike
+
+Evening -- Welcome dinner
+
+
+### Saturday, September 11th 2021
+
+10:00am  -- 
+
+4:00pm  -- Ceremony
+
+10:00pm -- County regulations require music to be off
+
