@@ -195,16 +195,16 @@ header p {
   background-size: cover;
 }
 
-.section-4 {
+.section-5 {
   color: white;
-  background: url("../img/section4-bg.jpg") no-repeat center center scroll;
+  background: url("../img/section5-bg.jpg") no-repeat center center scroll;
   background-color: black;
   background-size: cover;
 }
 
-.section-5 {
+.section-6 {
   color: white;
-  background: url("../img/section5-bg.jpg") no-repeat center center scroll;
+  background: url("../img/section6-bg.jpg") no-repeat center center scroll;
   background-color: black;
   background-size: cover;
 }
