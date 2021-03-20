@@ -25,4 +25,4 @@ Dinner and dancing (will this be possible?!) to follow.
 
 ### Sunday, September 12th 2021
 
-Morning: Brunch send off. Lake Wenatchee State Park South picnic area. The picnic area has capacity for 50; we will have food for all, but expect people to come and go during this time. Note that a discover pass is required per vehicle, so carpool if you can.
+Morning: Breakfast send off. Lake Wenatchee State Park South picnic area. The picnic area has capacity for 50; we will have food for all, but expect people to come and go during this time. Note that a discover pass is required per vehicle, so carpool if you can.
