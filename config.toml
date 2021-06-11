@@ -2,7 +2,7 @@ baseURL = "https://juliadavidwedding.com"
 languageCode = "en-us"
 title = "Julia and David"
 theme = "grayscale"
-googleAnalytics = "G-WKTVBPGPSK"
+googleAnalytics = "UA-183742645-1"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
